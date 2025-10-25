@@ -1,314 +1,314 @@
 dataset,document,id,type,sentence,label,sublabel
-2,1,19,phase,"P: Ja, guten Morgen.",Beginning,Greeting
-2,1,24,phase,"T (glz.): Okay, guten Morgen, Frau Svensson.",Beginning,Greeting
-2,1,29,phase,"T (glz.): Schön, dass Sie hier sind, dass das geklappt hat.",Beginning,Greeting
-2,1,34,phase,"T (glz.): Ich sehe auch mit dem Link, den ich Ihnen zugesendet habe per Zoom, das freut mich auf jeden Fall.",Beginning,Small talk
-2,1,39,phase,T (glz.): Wie geht es Ihnen dazu?,Beginning,Small talk
-2,1,44,phase,"P: Ja, prinzipiell gut, aber wir sind einfach sehr besorgt aktuell.",Beginning,Small talk
-2,1,49,phase,"P: Wir sind total unzufrieden mit den Noten, die der Michel nach Hause bringt.",Informational,Informational
-2,1,54,phase,P: Ich finde es,Informational,Informational
-2,1,59,phase,"P: passt nicht zu dem, wie der Michel eigentlich oder was der Michel eigentlich an Leistung bringen kann.",Informational,Informational
-2,1,64,phase,P: Er ist eigentlich ja wirklich ein cleverer Kerl.,Informational,Informational
-2,1,69,phase,P: Er kann sich so gut Sachen merken.,Informational,Informational
-2,1,74,phase,"P: Also wenn er sich für was interessiert, wie diese Bäume und",Informational,Informational
-2,1,79,phase,"P: die ganzen Sachen, die sie gerade in HSU machen, da ist das total motiviert und kann sich das alles merken.",Informational,Informational
-2,1,84,phase,"P: Aber die Noten, die dann kommen und vor allem auch Deutsch, die dann kommen, die sind so gar nicht das, was wir uns vorstellen.",Informational,Informational
-2,1,89,phase,"P: Ich weiß nicht, das ist doch alles irgendwie ein bisschen zu schwer, glaube ich, was sie machen in der Schule.",Informational,Informational
-2,1,94,phase,P: Das passt so zu den Kindern.,Informational,Informational
-2,1,99,phase,P: Ich kann mir das nicht vorstellen.,Informational,Informational
-2,1,104,phase,"T: Okay, ich verstehe.",Informational,Informational
-2,1,104,technik,"T: Okay, ich verstehe.",Verbalizing,Undefined attention reaction
-2,1,109,phase,P (glz.): Ja.,Informational,Informational
-2,1,114,phase,"T: Also Sie meinten ja, dass Sie mit mir gerne über den Übertritt von Michel sprechen möchten.",Beginning,Content frame
-2,1,114,technik,"T: Also Sie meinten ja, dass Sie mit mir gerne über den Übertritt von Michel sprechen möchten.",Structuring,Structuring
-2,1,119,phase,"T: Ich würde sagen, das ist jetzt auf jeden Fall erstmal unser Hauptfokus in den nächsten acht Minuten, dass wir da versuchen, einfach die beste Lösung natürlich für Ihr Kind, für den Michel zu finden.",Beginning,Zeitlicher Rahmen
-2,1,119,technik,"T: Ich würde sagen, das ist jetzt auf jeden Fall erstmal unser Hauptfokus in den nächsten acht Minuten, dass wir da versuchen, einfach die beste Lösung natürlich für Ihr Kind, für den Michel zu finden.",Structuring,Structuring
-2,1,124,phase,"T: Und ich würde mich da auf jeden Fall freuen, wenn wir da zusammenarbeiten in der Hinsicht.",Beginning,Content frame
-2,1,129,phase,"T: Sie haben jetzt schon erzählt, Sie sehen es jetzt aus Ihrer Sicht so, dass der Michel,",Informational,Informational
-2,1,129,technik,"T: Sie haben jetzt schon erzählt, Sie sehen es jetzt aus Ihrer Sicht so, dass der Michel,",Paraphrasing,Paraphrasing
-2,1,134,phase,"T: dass zwar eigentlich schon diese Begabung auf jeden Fall ein intelligentes Kind ist und sie sehen natürlich aber auf der anderen Seite, die Noten sind da auf jeden Fall nicht so, wie sie sich das wünschen.",Informational,Informational
-2,1,134,technik,"T: dass zwar eigentlich schon diese Begabung auf jeden Fall ein intelligentes Kind ist und sie sehen natürlich aber auf der anderen Seite, die Noten sind da auf jeden Fall nicht so, wie sie sich das wünschen.",Paraphrasing,Paraphrasing
-2,1,139,phase,T: Habe ich das richtig verstanden?,Informational,Informational
-2,1,144,phase,"P: Wir würden ihn halt schon sehr, sehr gerne aufs Gymnasium schicken.",Informational,Informational
-2,1,149,phase,"P: Der Papa von Michel und ich, wir haben beide studiert und das wünschen wir uns auch für Michel, dass er einfach aufs Gymnasium geht und ihm dann wirklich alle Türen offen stehen.",Informational,Informational
-2,1,154,phase,"P: Er studieren kann, wenn er meint, er studiert dann nicht, dann macht er es halt nicht, aber er könnte es auf jeden Fall.",Informational,Informational
-2,1,159,phase,P: Also er soll irgendwie alle Möglichkeiten haben.,Informational,Informational
-2,1,164,phase,"T: Okay, also ich verstehe das dann richtig, der Übertritt, das ist Ihnen dann in der Hinsicht schon sehr wichtig, dass der Michael dann aufs Gymnasium geht, also das ist schon auf jeden Fall bei Ihnen zu Hause dann auch Thema, nehme ich an, oder wie ist da die Situation bei Ihnen daheim, wenn ich mich erinnere?",Informational,Informational
-2,1,164,technik,"T: Okay, also ich verstehe das dann richtig, der Übertritt, das ist Ihnen dann in der Hinsicht schon sehr wichtig, dass der Michael dann aufs Gymnasium geht, also das ist schon auf jeden Fall bei Ihnen zu Hause dann auch Thema, nehme ich an, oder wie ist da die Situation bei Ihnen daheim, wenn ich mich erinnere?",Paraphrasing,Paraphrasing
-2,1,169,phase,"P: Ja, wir sprechen da viel drüber.",Informational,Informational
-2,1,174,phase,P: Wir sagen das dem Michel auch.,Informational,Informational
-2,1,179,phase,P: Ich setze mich ja nachmittags viel mit ihm hin und übe die Sachen.,Informational,Informational
-2,1,184,phase,P: Wir gucken dann nochmal in diese Merkhefte und was sie da alles haben und wiederholen das nochmal.,Informational,Informational
-2,1,189,phase,P: Und ich übe das mit ihm.,Informational,Informational
-2,1,194,phase,P: Es ist manchmal einfach echt zäh.,Informational,Informational
-2,1,199,phase,P: Manche Sachen interessieren ihn einfach nicht.,Informational,Informational
-2,1,204,phase,T (glz.): Ja.,Informational,Informational
-2,1,204,technik,T (glz.): Ja.,Verbalizing,Undefined attention reaction
-2,1,209,phase,"P: Und der Papa, der kommt ja dann spät von der Arbeit und der fragt dann, wie war es in der Schule und was hast du gelernt und so.",Informational,Informational
-2,1,214,phase,P: Und da kommt dann immer nicht viel von ihm.,Informational,Informational
-2,1,219,phase,"P: Da ist dann immer so, ja, ja, ja.",Informational,Informational
-2,1,224,phase,"P: Also den Michael interessiert es irgendwie nicht so doll, wie seine Leistungen so sind.",Informational,Informational
-2,1,229,phase,P: Ich weiß nicht.,Informational,Informational
-2,1,234,phase,"P: Ich habe auch das Gefühl, dass...",Informational,Informational
-2,1,239,phase,"P: Er hat irgendwie auch noch weniger Spaß seit einer Weile an dem, was so in der Schule passiert.",Informational,Informational
-2,1,244,phase,"P: Ich weiß nicht, wie nehmen Sie ihn denn wahr?",Informational,Informational
-2,1,249,phase,"T: Also ich kann auf jeden Fall jetzt schon mal aus ihrer Sicht festhalten, ich sehe, dass sie die Situation schon belastet und dass das für sie auf jeden Fall ein schwerer Punkt ist.",Informational,Informational
-2,1,249,technik,"T: Also ich kann auf jeden Fall jetzt schon mal aus ihrer Sicht festhalten, ich sehe, dass sie die Situation schon belastet und dass das für sie auf jeden Fall ein schwerer Punkt ist.",Verbalizing,Statement
-2,1,254,phase,"T: Dieser Übertritt, der liegt so ein bisschen im Magen, sehe ich.",Informational,Informational
-2,1,254,technik,"T: Dieser Übertritt, der liegt so ein bisschen im Magen, sehe ich.",Verbalizing,Statement
-2,1,259,phase,P (glz.): Mhm.,Informational,Informational
-2,1,264,phase,"T: Und wahrscheinlich auch eben mit dem Michel zusammen, dass das jetzt eben gerade ein bisschen hapert daran.",Informational,Informational
-2,1,269,phase,T: Ja.,Informational,Informational
-2,1,274,phase,"T: Ja, also ich kann aus jedem Fall aus meiner Sicht sagen, dass ich den Michael auch als sehr interessierten Jungen wahrnehme, vor allem eben in den HSU-Themen.",Informational,Informational
-2,1,279,phase,"T: Bäume, Pflanzen, da ist er auf jeden Fall sehr interessiert immer.",Informational,Informational
-2,1,284,phase,"T: Trotzdem muss ich auch sagen, natürlich, ich sehe das auch, dass ihm gerade so die schriftlichen Arbeiten schon auch schwerfallen.",Informational,Informational
-2,1,289,phase,T: Sein Schriftbild ist ja immer noch ziemlich unordentlich und...,Informational,Informational
-2,1,294,phase,"T: Genau, da finde ich, ist der Michael einfach, seine Stärken sind auf jeden Fall eher in diesem freien Erzählen, in diesem lebhaften Erzählen, da geht er auch immer richtig auf im Morgenkreis und so.",Informational,Informational
-2,1,299,phase,T: Allerdings ist es dann eben bei den schriftlichen Arbeiten ein bisschen schwieriger.,Informational,Informational
-2,1,304,phase,"T: Ich weiß nicht, wie ist das aus Ihrer Sicht, wie nehmen Sie das zu Hause wahr?",Informational,Informational
-2,1,309,phase,T: Sehen Sie das auch so?,Informational,Informational
-2,1,309,technik,T: Sehen Sie das auch so?,Verbalizing,Weiterführende Frage
-2,1,314,phase,P: Total.,Informational,Informational
-2,1,319,phase,P: Und ich finde jetzt gerade Deutsch auch irgendwie schwierig.,Informational,Informational
-2,1,324,phase,"P: Wenn er da eine Fantasiegeschichte schreiben soll, ist das nochmal was anderes.",Informational,Informational
-2,1,329,phase,"P: Aber so diese Sachen, diese Sachtexte oder Brief und sowas, die da alles so machen, das ist ihm einfach wurscht.",Informational,Informational
-2,1,334,phase,"P: Da ist er nicht besonders motiviert, sich dann da an irgendwelche Regeln zu halten und da irgendwelche Anredefloskeln auszuwählen.",Informational,Informational
-2,1,339,phase,P: Das ist ihm alles so ein bisschen...,Informational,Informational
-2,1,344,phase,P: Ja.,Informational,Informational
-2,1,349,phase,"P: Ja, Regeln.",Informational,Informational
-2,1,354,phase,P: Ja.,Informational,Informational
-2,1,359,phase,"T: Okay, also ich glaube, wir können an dem Punkt schon mal festhalten, dass wir beide das auch so sehen, dass der Michael seine Stärken auf jeden Fall eher in der praktischen Richtung hat und jetzt nicht so in diesem typischen, ich nenne es einfach mal so, auswendig lernen oder so nach Regeln bearbeiten.",Informational,Informational
-2,1,359,technik,"T: Okay, also ich glaube, wir können an dem Punkt schon mal festhalten, dass wir beide das auch so sehen, dass der Michael seine Stärken auf jeden Fall eher in der praktischen Richtung hat und jetzt nicht so in diesem typischen, ich nenne es einfach mal so, auswendig lernen oder so nach Regeln bearbeiten.",Paraphrasing,Paraphrasing
-2,1,364,phase,"T: Ja, nun ist es ja so, Frau Svensson, dass das natürlich auf dem Gymnasium schon eher von den Kindern erwartet wird, eben diese theoretische Ausbildung.",Argumentative,Argumentative
-2,1,369,phase,T: Dafür steht das Gymnasium ja auch.,Argumentative,Argumentative
-2,1,374,phase,"T: Jetzt wäre es natürlich, mich würde es freuen, wenn ich mit Ihnen zusammen nochmal überlegen könnte, was ist denn die passende Schulform für den Michael?",Argumentative,Argumentative
-2,1,379,phase,"T: Natürlich verstehe ich das, dass Sie den Michi eine gute Ausbildung ermöglichen möchten.",Argumentative,Argumentative
-2,1,384,phase,T: Ich kann Ihnen an der Stelle aber auf jeden Fall nochmal eventuell ein bisschen den Druck rausnehmen.,Argumentative,Argumentative
-2,1,389,phase,"T: Nur wenn der Michi jetzt nicht aus Gymnasium geht, bedeutet das nicht, dass er später nicht sein Abitur machen kann.",Argumentative,Argumentative
-2,1,394,phase,"T: Also es gibt auf jeden Fall ganz, ganz viele Möglichkeiten und Wege.",Argumentative,Argumentative
-2,1,399,phase,"T: Sie haben ja, glaube ich, auch schon den Elternabend zum Übertritt besucht.",Argumentative,Argumentative
-2,1,404,phase,"T: Auch wenn Michael jetzt die Realschule besuchen würde, gibt es natürlich immer noch die Möglichkeit, dass er gleich nach der fünften Klasse wieder aufs Gymnasium wechselt, wenn wir jetzt sehen, das ist das Richtige für ihn.",Argumentative,Argumentative
-2,1,409,phase,T: Oder dann später auf der Voss oder so auch seine Hochschulreife erlangt.,Argumentative,Argumentative
-2,1,414,phase,T: Also da können Sie auf jeden Fall in der Hinsicht schon mal durchatmen.,Argumentative,Argumentative
-2,1,419,phase,P: Okay.,Argumentative,Argumentative
-2,1,424,phase,"P: Ja, das hieß ja, das System ist ein bisschen durchlässig.",Argumentative,Argumentative
-2,1,429,phase,"P: Ja, wir würden ihn halt gerne gleich aufs Gymnasium schicken und dann sagen,",Argumentative,Argumentative
-2,1,434,phase,P: da bleibt er und das zieht er durch.,Argumentative,Argumentative
-2,1,439,phase,"P: Meinen Sie, es ist vielleicht noch nicht der Moment tatsächlich, dass man ihn erst später dahin schickt?",Argumentative,Argumentative
-2,1,444,phase,"T: Ich meine, ich verstehe auf jeden Fall auch Ihren Standpunkt.",Argumentative,Argumentative
-2,1,444,technik,"T: Ich meine, ich verstehe auf jeden Fall auch Ihren Standpunkt.",Verbalizing,Undefined attention reaction
-2,1,449,phase,"T: Ich würde mir natürlich wünschen, dass der Michel halt einfach die Schulform für sich findet, die halt am besten zu seinen Interessen und zu seinen Stärken passt.",Argumentative,Argumentative
-2,1,454,phase,"T: Natürlich, wie wäre das denn für Sie, wenn Sie sich jetzt nochmal mit dem Michel zusammensetzen würden und vielleicht einfach mal...",Argumentative,Argumentative
-2,1,459,phase,"T: ich weiß nicht, vielleicht sogar auf einer Mindmap einfach mal visualisieren, was ist denn für den Michel im Moment wichtig?",Argumentative,Argumentative
-2,1,464,phase,T: Was sind gerade meine Stärken?,Argumentative,Argumentative
-2,1,469,phase,T: Wo sehe ich mich?,Argumentative,Argumentative
-2,1,474,phase,P: Das ist eine gute Idee.,Argumentative,Argumentative
-2,1,479,phase,"T (glz.): Also, dass der Michel einfach sich vielleicht dann nochmal ein bisschen klarer wird und das vielleicht auch nochmal sich so in den Kopf ruft und dass sie sich dann nochmal mit dem Michel zusammensetzen und dann nochmal vielleicht gucken, welche Schulart verkörpert diese Interessen am besten?",Argumentative,Argumentative
-2,1,484,phase,T (glz.): Wie sehen sie das denn?,Argumentative,Argumentative
-2,1,489,phase,T (glz.): Mhm.,Argumentative,Argumentative
-2,1,494,phase,P: Das ist echt eine gute Idee.,Argumentative,Argumentative
-2,1,499,phase,"P: Tatsächlich eine Mindmap, das könnte ich mir vorstellen.",Argumentative,Argumentative
-2,1,504,phase,P: Dass wir das,Argumentative,Argumentative
-2,1,509,phase,P: das so mal besprechen können.,Argumentative,Argumentative
-2,1,514,phase,"P: Weil sonst ist das tatsächlich gerade nicht so griffig für ihn irgendwie, worum es eigentlich geht.",Argumentative,Argumentative
-2,1,519,phase,"T (glz.): Ja, verstehe ich, ja.",Argumentative,Argumentative
-2,1,519,technik,"T (glz.): Ja, verstehe ich, ja.",Verbalizing,Undefined attention reaction
-2,1,524,phase,"P: Aber ja, wenn wir einfach, das ist wirklich eine gute Idee.",Argumentative,Argumentative
-2,1,529,phase,"P: Das mache ich, ja.",Argumentative,Argumentative
-2,1,534,phase,"T: Und ich dürfte Ihnen auch noch einen Tipp geben, also viele Schulen bieten auch zum Beispiel so einen Probetag an, da können Sie einfach mal mit mir vorbeischauen, sich den Unterricht mal anschauen.",Argumentative,Argumentative
-2,1,539,phase,P (glz.): Mhm.,Argumentative,Argumentative
-2,1,544,phase,"T: Ich finde, da wird das Ganze auch immer noch mal ein bisschen griffiger, ein bisschen lebhafter, was denn die Anforderungen von den Schulen genau sind.",Argumentative,Argumentative
-2,1,549,phase,"T: Genau, wenn Sie sich das vorstellen können, könnte ich Ihnen auch noch mal die Termine von den Schulen hier im Umkreis schicken, dann können Sie sich das auch noch mal mit Ihrem Mann zusammen umso überlegen, ja.",Decision-Making,Decision-Making
-2,1,554,phase,"P: Ja, gerne.",Decision-Making,Decision-Making
-2,1,559,phase,P: Das ist eine gute Idee.,Decision-Making,Decision-Making
-2,1,564,phase,P: Vielen Dank.,Decision-Making,Decision-Making
-2,1,569,phase,"P: Das finde ich ganz gut, dass man den Michel selber noch mal ein bisschen mit ins Boot holt.",Decision-Making,Decision-Making
-2,1,574,phase,"P: Auch ein bisschen, was interessiert ihn.",Decision-Making,Decision-Making
-2,1,579,phase,"P: Vielleicht müssen wir uns ein bisschen von dem Gedanken verabschieden, dass er direkt aufs Gymnasium geht, so wie wir das gemacht haben, mein Mann und ich.",Decision-Making,Decision-Making
-2,1,584,phase,P: Vielleicht hat er da einfach einen anderen Weg.,Decision-Making,Decision-Making
-2,1,589,phase,P: Ja.,Decision-Making,Decision-Making
-2,1,594,phase,"T: Genau, jedes Kind ist ja individuell, jedes Kind findet auch seinen Weg und ich bin mir auch sicher, dass wir da die gute Lösung für den Michel finden.",Decision-Making,Decision-Making
-2,1,599,phase,"T: Es steht ja jetzt dann im Mai noch das Übertrittszeugnis an und wenn Sie natürlich wollen, können wir natürlich da auf jeden Fall uns nochmal zusammensetzen, wenn dann letztendlich die Noten auch feststehen.",Concluding,Sonstiges
-2,1,604,phase,P (glz.): ja ja ja ja,Concluding,Appointment
-2,1,609,phase,T: Ansonsten würde ich jetzt für dieses Gespräch erstmal festhalten.,Concluding,Wertschätzende Reflexion
-2,1,609,technik,T: Ansonsten würde ich jetzt für dieses Gespräch erstmal festhalten.,Structuring,Structuring
-2,1,614,phase,"T: Sie setzen sich mit Michel nochmal zusammen, besprechen nochmal die wichtigsten Punkte, welche Schulart",Concluding,Wertschätzende Reflexion
-2,1,614,technik,"T: Sie setzen sich mit Michel nochmal zusammen, besprechen nochmal die wichtigsten Punkte, welche Schulart",Structuring,Structuring
-2,1,619,phase,"T: steht für welche Dinge, was ist ihm wichtig und dann können Sie auch gerne nochmal auf mich zukommen.",Concluding,Wertschätzende Reflexion
-2,1,619,technik,"T: steht für welche Dinge, was ist ihm wichtig und dann können Sie auch gerne nochmal auf mich zukommen.",Structuring,Structuring
-2,1,624,phase,"P (glz.): Super, das ist eine gute Idee.",Concluding,Wertschätzende Reflexion
-2,1,629,phase,"P (glz.): Und mein Mann und ich, wir setzen uns auch nochmal zusammen und überlegen uns, ob wir uns ein bisschen von den Gedanken lösen können, dass das jetzt so auf dem direkten, geraden Weg alles läuft.",Concluding,Wertschätzende Reflexion
-2,1,634,phase,"T: Okay, super Frau Frenzer, dann bedanke ich mich für das Gespräch und wünsche Ihnen noch einen wunderschönen Tag.",Concluding,Farewell
-2,1,639,phase,P (glz.): Ja.,Concluding,Farewell
-2,1,644,phase,P: Danke Ihnen.,Concluding,Farewell
-2,1,649,phase,"P: Ja, danke Ihnen auch.",Concluding,Farewell
-2,1,654,phase,T: Tschüss.,Concluding,Farewell
-2,1,659,phase,P: Tschüss.,Concluding,Farewell
-3,2,59,phase,"L (glz.): So, hallo, Herr Grün.",Beginning,Greeting
-3,2,64,phase,"L: Schön, Sie zu sehen.",Beginning,Greeting
-3,2,69,phase,E (glz.): Hallo Frau Kall.,Beginning,Greeting
-3,2,74,phase,E (glz.): Ja.,Beginning,Greeting
-3,2,79,phase,"L: Danke, dass Sie es einrichten konnten.",Beginning,Greeting
-3,2,84,phase,"L: Ich hoffe, Sie haben es sich bequem gemacht und ein ruhiges Plätzchen gefunden.",Beginning,Small talk
-3,2,89,phase,"E: Ja, ja, passt.",Beginning,Small talk
-3,2,94,phase,E: Passt auch.,Beginning,Small talk
-3,2,99,phase,E: Okay.,Beginning,Small talk
-3,2,104,phase,E: Okay.,Beginning,Small talk
-3,2,109,phase,L: Okay.,Beginning,Small talk
-3,2,109,technik,L: Okay.,Verbalizing,Undefined attention reaction
-3,2,114,phase,"L: Ähm,",Beginning,Small talk
-3,2,119,phase,"L: Ja, also kurz allgemein.",Beginning,Content frame
-3,2,124,phase,"L: Sie haben wirklich eine tolle Zweitlisterin zu Hause, Herr Grün.",Beginning,Content frame
-3,2,129,phase,"L: Sie ist sehr engagiert, meldet sich viel, arbeitet aktiv im Unterricht mit.",Beginning,Content frame
-3,2,134,phase,L: Also es ist wirklich eine Bereicherung für die Klasse und den Unterricht.,Beginning,Content frame
-3,2,139,phase,"L: Umso mehr überrascht es mich, dass immer häufiger ihr Hausaufgaben fehlen.",Beginning,Content frame
-3,2,144,phase,"L: Ja, also ich habe da auch schon öfter mit der Luisa drüber gesprochen.",Informational,Informational
-3,2,149,phase,L: Vielleicht haben sie auch mal mit dir geredet oder sie hat Ihnen was erzählt.,Informational,Informational
-3,2,154,phase,"E: Also habe ich jetzt eigentlich gar nichts mitbekommen, weil die Luisa macht eigentlich immer alles selbstständig und also ich habe da eigentlich gar nichts mitbekommen.",Informational,Informational
-3,2,159,phase,"E: Also vielleicht hat sie einfach mal vergessen, die Hausaufgaben abzugeben oder so.",Informational,Informational
-3,2,164,phase,"L (glz.): Okay, also Sie sagen, die Luisa macht die Hausaufgaben selbstständig?",Informational,Informational
-3,2,164,technik,"L (glz.): Okay, also Sie sagen, die Luisa macht die Hausaufgaben selbstständig?",Paraphrasing,Paraphrasing
-3,2,169,phase,"E: Also ich finde auch, dass...",Informational,Informational
-3,2,174,phase,"E: die Luisa, die macht sowieso eigentlich so ihr Ding, die geht dann auch mal mit den Hunden und den Katzen irgendwie raus, sie ist beim Reiten am Nachmittag und ich verlasse mich eigentlich drauf.",Informational,Informational
-3,2,179,phase,"E: Also meine Frau und ich, wir sind da eigentlich so der Meinung, dass die Luisa das alles macht und ja, also vielleicht hat sie es einfach mal vergessen abzugeben, kann das sein?",Informational,Informational
-3,2,184,phase,E: Ja.,Informational,Informational
-3,2,189,phase,"L: Es ist jetzt leider kein Einzelfall, also es fehlen schon häufiger die Hausaufgaben und man merkt das inzwischen auch an den Leistungen.",Informational,Informational
-3,2,194,phase,"E: Ah, okay.",Informational,Informational
-3,2,199,phase,"E: Ja, also, okay, dann, also, ja, habe ich jetzt gar nicht so wahrgenommen.",Informational,Informational
-3,2,204,phase,"L: Ja, also sie wirken auch etwas überrascht und verständlicherweise, wenn sie davon ausgehen, dass die Luisa das eigentlich selbstständig macht.",Informational,Informational
-3,2,204,technik,"L: Ja, also sie wirken auch etwas überrascht und verständlicherweise, wenn sie davon ausgehen, dass die Luisa das eigentlich selbstständig macht.",Verbalizing,Statement
-3,2,209,phase,E: Mhm.,Informational,Informational
-3,2,214,phase,"L: Da bin ich ja froh, dass wir jetzt ins Gespräch kommen und ich Ihnen die Infos mitteilen kann.",Informational,Informational
-3,2,219,phase,E (glz.): Mhm.,Informational,Informational
-3,2,224,phase,"L: Vielleicht können Sie noch mal kurz schildern, die Luisa kommt von der Schule nach Hause und dann, wie sieht Ihr Nachmittag aus?",Informational,Informational
-3,2,224,technik,"L: Vielleicht können Sie noch mal kurz schildern, die Luisa kommt von der Schule nach Hause und dann, wie sieht Ihr Nachmittag aus?",Verbalizing,Clarifying question
-3,2,229,phase,"E: Ja, dann ist sie meistens was mit uns oder mit meiner, wer halt zu Hause ist, manchmal bin ich im Homeoffice oder so.",Informational,Informational
-3,2,234,phase,"E: Ja, und dann geht sie eigentlich in ihr Zimmer und dann macht sie die Hausaufgaben und dann geht sie meistens raus irgendwie zum, also die geht ja wie gesagt auch reiten und ja.",Informational,Informational
-3,2,239,phase,"E: Es ist dann draußen und ich habe eigentlich ehrlich gesagt, ich finde das auch eine Zweitklässlerin, die kann doch eigenständig ihre Sachen machen.",Informational,Informational
-3,2,244,phase,"E: Also ich finde, da soll die auch selber die Verantwortung übernehmen.",Informational,Informational
-3,2,249,phase,"E: Und ich gehe immer davon aus, dass sie ihre Hausaufgaben gemacht hat.",Informational,Informational
-3,2,254,phase,"E: Ich kontrolliere das jetzt auch nicht extra nochmal, weil ich denke, das kann ein Kind in der zweiten Klasse oder sollte es einfach auch selbstständig machen können.",Informational,Informational
-3,2,259,phase,"L: Okay, also Sie überprüfen das nicht und sind der Meinung, eine Zweitklässlerin sollte das können.",Informational,Informational
-3,2,259,technik,"L: Okay, also Sie überprüfen das nicht und sind der Meinung, eine Zweitklässlerin sollte das können.",Paraphrasing,Paraphrasing
-3,2,264,phase,"E: Ja, finde ich schon.",Informational,Informational
-3,2,269,phase,"E: Also das ist doch, also ja, finde ich schon.",Informational,Informational
-3,2,274,phase,"E: Also ich meine, es ist ja auch nicht so, dass ihr nachher im Leben alles nachgetragen wird, sondern ich finde, die muss einfach da selber die Verantwortung übernehmen.",Informational,Informational
-3,2,279,phase,"E: So, oder?",Informational,Informational
-3,2,284,phase,"L: Also Herr Grün, ich finde es toll, dass Sie Ihrer Tochter das zutrauen, in der zweiten Klasse schon zu schaffen.",Informational,Informational
-3,2,284,technik,"L: Also Herr Grün, ich finde es toll, dass Sie Ihrer Tochter das zutrauen, in der zweiten Klasse schon zu schaffen.",Verbalizing,Undefined attention reaction
-3,2,289,phase,"L: Im Vergleich zur ersten Klasse, haben Sie da noch mit drauf geschaut?",Informational,Informational
-3,2,289,technik,"L: Im Vergleich zur ersten Klasse, haben Sie da noch mit drauf geschaut?",Verbalizing,Clarifying question
-3,2,294,phase,"E: Ja, da haben wir natürlich, klar, bis die sich mal so ein bisschen eingespielt hat, aber jetzt so in der zweiten Klasse, mein Gott, also das läuft ja.",Informational,Informational
-3,2,299,phase,"E: Ah ja, Entschuldigung.",Informational,Informational
-3,2,304,phase,"L: Wohl möglicherweise liegt es auch gar nicht daran, dass sie nicht zuverlässig ist, sondern dass vielleicht einfach es an Motivation fehlt für die Hausaufgaben oder sie vielleicht doch noch so ab und zu einen Impuls von den Eltern bräuchte, Herr Grün, weil man merkt es an ihrer Leistung.",Informational,Informational
-3,2,309,phase,"L: Also es ist wichtig, dass sie die Hausaufgaben macht, zuverlässig und da braucht sie vielleicht einfach doch noch Unterstützung in der zweiten Klasse.",Argumentative,Argumentative
-3,2,314,phase,"E: also ich sehe es ein bisschen anders, aber also ja, also vielleicht sollte ich dann halt mal, ja, dann reden wir halt mal mit der Luisa irgendwie oder auch nochmal, aber ich, also so perspektivisch sollte doch eigentlich, sollte sie das schon selber machen irgendwie, aber ich, also ja, also Leistungen habe ich jetzt auch noch gar nicht so mitbekommen, also wie meinen Sie, also hat sie gerade schlecht, also die kriegen doch jetzt erst zum Ende,",Argumentative,Argumentative
-3,2,319,phase,E: Vom zweiten Halbjahr.,Argumentative,Argumentative
-3,2,324,phase,E: Jetzt ist doch... Haben die schon die Zeugnisse bekommen?,Argumentative,Argumentative
-3,2,329,phase,"L: Die Sätze stehen noch aus, die kommen jetzt in den nächsten.",Argumentative,Argumentative
-3,2,334,phase,"E (glz.): Ja, eben.",Argumentative,Argumentative
-3,2,339,phase,E (glz.): Aber die kriegen jetzt das erste... Kriegen die jetzt in der zweiten Klasse schon Noten im zweiten Halbjahr?,Argumentative,Argumentative
-3,2,344,phase,"E: Nee, im ersten Mal.",Argumentative,Argumentative
-3,2,349,phase,"L: Bei Gründung im zweiten Halbjahr kriegen Sie dann Noten, richtig?",Argumentative,Argumentative
-3,2,349,technik,"L: Bei Gründung im zweiten Halbjahr kriegen Sie dann Noten, richtig?",Paraphrasing,Paraphrasing
-3,2,354,phase,E: Aber jetzt noch nicht.,Argumentative,Argumentative
-3,2,359,phase,"L: Jetzt noch nicht, aber es ist natürlich, Herr Grün, darf ich Ihnen kurz meine Sicht erklären.",Argumentative,Argumentative
-3,2,359,technik,"L: Jetzt noch nicht, aber es ist natürlich, Herr Grün, darf ich Ihnen kurz meine Sicht erklären.",Structuring,Structuring
-3,2,364,phase,E (glz.): Okay.,Argumentative,Argumentative
-3,2,369,phase,"E (glz.): Ja, ja.",Argumentative,Argumentative
-3,2,374,phase,"L: Die Hausaufgaben sind dafür da, dass der Stoff, den man im Unterricht erarbeitet, nochmal zu Hause geübt und gefestigt wird.",Argumentative,Argumentative
-3,2,379,phase,"L: Das ist wichtig, um darauf aufbauen zu können und dass die Kinder dann die Möglichkeit haben, damit weiterzuarbeiten.",Argumentative,Argumentative
-3,2,384,phase,"E: Ja, aber das ist ja eigentlich meine Aufgabe, das ist ja eigentlich Aufgabe der Schule, oder?",Argumentative,Argumentative
-3,2,389,phase,"L: Was genau, Herr Grün?",Argumentative,Argumentative
-3,2,389,technik,"L: Was genau, Herr Grün?",Verbalizing,Clarifying question
-3,2,394,phase,"E: Naja, also eigentlich ist doch die Schule dazu da, den Kindern die Sachen beizubringen und sie so auszustatten, dass sie das lernen können.",Argumentative,Argumentative
-3,2,399,phase,"E: Das ist ja nicht mein Job eigentlich, mit denen die Hausaufgaben zu machen, oder?",Argumentative,Argumentative
-3,2,404,phase,"L: Nein, nein, darauf möchte ich auch gar nicht hinaus.",Argumentative,Argumentative
-3,2,409,phase,L: Also sie soll nicht mit Luisa zusammen die Hausaufgaben machen.,Argumentative,Argumentative
-3,2,409,technik,L: Also sie soll nicht mit Luisa zusammen die Hausaufgaben machen.,Paraphrasing,Paraphrasing
-3,2,414,phase,E (glz.): Aha.,Argumentative,Argumentative
-3,2,419,phase,L: Das ist richtig.,Argumentative,Argumentative
-3,2,424,phase,L: Sie soll sie selbstständig und alleine arbeiten.,Argumentative,Argumentative
-3,2,429,phase,"L: Aber es muss vielleicht doch nochmal jemand mit drauf schauen, dass sie sie wirklich zu Hause macht.",Argumentative,Argumentative
-3,2,434,phase,E (glz.): Okay.,Argumentative,Argumentative
-3,2,439,phase,E (glz.): Also sie macht sie gar nicht.,Argumentative,Argumentative
-3,2,444,phase,E: Aha.,Argumentative,Argumentative
-3,2,449,phase,"L (glz.): Richtig, sie macht die Hausaufgaben nicht.",Argumentative,Argumentative
-3,2,454,phase,E: Okay.,Argumentative,Argumentative
-3,2,459,phase,"E: Ja, okay.",Argumentative,Argumentative
-3,2,464,phase,E: So werde muss ich mal mit ihr reden.,Argumentative,Argumentative
-3,2,469,phase,E: Also macht die Hausaufgaben nicht.,Argumentative,Argumentative
-3,2,474,phase,E: Und wie lange ist das jetzt schon?,Argumentative,Argumentative
-3,2,479,phase,"L: Also es nimmt zu, jetzt seit zwei Wochen, dass es immer wieder, also dass es häufiger fehlt.",Argumentative,Argumentative
-3,2,484,phase,E (glz.): Okay.,Argumentative,Argumentative
-3,2,489,phase,E (glz.): Zwei Wochen Hausaufgaben fehlen.,Argumentative,Argumentative
-3,2,494,phase,E (glz.): Juhu.,Argumentative,Argumentative
-3,2,499,phase,"E: Dann, okay.",Argumentative,Argumentative
-3,2,504,phase,"L: Okay, Herr König, ich freue mich, dass Sie mitschreiben.",Argumentative,Argumentative
-3,2,504,technik,"L: Okay, Herr König, ich freue mich, dass Sie mitschreiben.",Verbalizing,Undefined attention reaction
-3,2,509,phase,"L: Vielleicht können Sie mir einen Vorschlag machen, wie gehen wir jetzt weiter vor?",Argumentative,Argumentative
-3,2,509,technik,"L: Vielleicht können Sie mir einen Vorschlag machen, wie gehen wir jetzt weiter vor?",Paraphrasing,Paraphrasing
-3,2,514,phase,"E: Ja, also ich werde jetzt mal als erstes mal, also muss ich mal mit meiner Frau auch reden.",Argumentative,Argumentative
-3,2,519,phase,E: Wir beide werden mal schauen.,Argumentative,Argumentative
-3,2,524,phase,"E: Und dann frage ich mal die Luisa, weil ich ehrlich gesagt schon davon ausgegangen bin, dass sie die macht.",Argumentative,Argumentative
-3,2,529,phase,E: Also ich bin jetzt da wirklich überrascht.,Argumentative,Argumentative
-3,2,534,phase,"E: Und sie sagen, seit so ungefähr zwei Wochen",Argumentative,Argumentative
-3,2,539,phase,"L: Genau richtig, seit zwei Wochen.",Argumentative,Argumentative
-3,2,544,phase,"E (glz.): Ja, dann, also ich würde mal mit ihr reden und fragen, was da los ist.",Argumentative,Argumentative
-3,2,549,phase,"E (glz.): Und dann sagten sie ja auch, also wir sollen jetzt nicht die Hausaufgaben mit ihr machen, aber wir sollen, also erster Schritt wäre mal, dass wir nochmal einfach überhaupt drauf schauen, dass sie die Hausaufgaben macht.",Argumentative,Argumentative
-3,2,554,phase,L: Ganz genau.,Argumentative,Argumentative
-3,2,559,phase,"L: Sie schauen darauf, dass die Luisa zu Hause die Hausaufgaben macht.",Argumentative,Argumentative
-3,2,559,technik,"L: Sie schauen darauf, dass die Luisa zu Hause die Hausaufgaben macht.",Paraphrasing,Paraphrasing
-3,2,564,phase,L: Sie soll sie auf jeden Fall alleine machen.,Argumentative,Argumentative
-3,2,569,phase,E: Okay.,Argumentative,Argumentative
-3,2,574,phase,E: Mhm.,Argumentative,Argumentative
-3,2,579,phase,"L: Genau, einfach nochmal dahinter sein, dass das wirklich zu Hause geschieht.",Argumentative,Argumentative
-3,2,579,technik,"L: Genau, einfach nochmal dahinter sein, dass das wirklich zu Hause geschieht.",Paraphrasing,Paraphrasing
-3,2,584,phase,E (glz.): Aber wir sollen noch mal draufschauen.,Argumentative,Argumentative
-3,2,589,phase,E (glz.): Werden denn die Hausaufgaben in der Schule auch kontrolliert eigentlich dann oder wie läuft das?,Informational,Informational
-3,2,594,phase,"E (glz.): Also schauen Sie sich die an oder gucken Sie einfach nur, ob die gemacht sind oder wie ist das?",Informational,Informational
-3,2,599,phase,"L: Selbstverständlich, ich schaue darauf.",Informational,Informational
-3,2,604,phase,"L: Das ist natürlich auch für mich eine Rückmeldung, was können die Kinder, was von dem Stoff, was sie im Unterricht gelernt haben, können sie auch tatsächlich anwenden.",Informational,Informational
-3,2,609,phase,"L: Und da fällt mir auch auf, wenn was fehlt.",Informational,Informational
-3,2,614,phase,E: Okay.,Argumentative,Argumentative
-3,2,619,phase,E: Okay.,Argumentative,Argumentative
-3,2,624,phase,"E: Und okay, das ist ja das eine.",Informational,Informational
-3,2,629,phase,"E: Und Sie sagten, die Leistungen seien auch schlechter geworden.",Informational,Informational
-3,2,634,phase,"E: Also wenn die noch keine Noten kriegen, wie oder woran stellen Sie das fest, dass die Leistungen von der Luisa schlechter werden?",Informational,Informational
-3,2,639,phase,E: Ja.,Informational,Informational
-3,2,644,phase,"L: Ich verstehe, dass Sie das jetzt auch noch interessiert.",Informational,Informational
-3,2,644,technik,"L: Ich verstehe, dass Sie das jetzt auch noch interessiert.",Verbalizing,Undefined attention reaction
-3,2,649,phase,L: Es ist jetzt noch nicht gravierend.,Informational,Informational
-3,2,654,phase,"L: Also man merkt einfach dadurch, dass eben die Übung zu Hause fehlt, dass sie Schwierigkeiten hat, dann schwierigere Aufgaben zu bearbeiten.",Informational,Informational
-3,2,659,phase,"E: Aber, also, weil sie einfach dann in der Schule das nicht so gut kann, daran fällt Ihnen das auf?",Informational,Informational
-3,2,664,phase,E: Oder weil es ja keine Noten gibt jetzt momentan?,Informational,Informational
-3,2,669,phase,"E: Oder Sie merken einfach, Sie kann die Sachen dann nicht so gut im Unterricht?",Informational,Informational
-3,2,674,phase,E: Oder wie äußert sich das?,Informational,Informational
-3,2,679,phase,"L: Sie hat zu wenig zu Hause geübt, um das dann in der Schule, also es ist natürlich auch, die Hausaufgaben sind dafür da, um nochmal Dinge zu wiederholen.",Informational,Informational
-3,2,684,phase,E: Aha.,Informational,Informational
-3,2,689,phase,"L: Und wenn man es nicht oft genug wiederholt, dann vergisst man es mit der Zeit auch.",Informational,Informational
-3,2,694,phase,"L: Und wenn dann zum Beispiel irgendwie so Anwendungsaufgaben drankommen und sie es schon länger nicht mehr gemacht hat, weil sie die Hausaufgaben nicht gemacht hat, dann muss sie natürlich erstmal wieder von vorne starten und sich überlegen, wie geht das jetzt nochmal.",Informational,Informational
-3,2,699,phase,"E: Okay, gut.",Informational,Informational
-3,2,704,phase,"E: Also dann rede ich mal mit der Luisa und wir gucken mal und fragen, was da los ist.",Decision-Making,Decision-Making
-3,2,709,phase,E: Und,Decision-Making,Decision-Making
-3,2,714,phase,"E: Ihrerseits würden Sie jetzt mir auch, wenn das jetzt weiter vorkäme, würden Sie mir auch Bescheid geben, dass die Luisa die Hausaufgaben nicht gemacht hat.",Decision-Making,Decision-Making
-3,2,719,phase,E: Ja.,Decision-Making,Decision-Making
-3,2,724,phase,L: Auf jeden Fall.,Decision-Making,Decision-Making
-3,2,729,phase,L: Ich würde gerne mit Ihnen in Kontakt bleiben.,Decision-Making,Decision-Making
-3,2,734,phase,"L: Ich finde es super, dass Sie mit der Luisa sprechen und würde mich auch interessieren, was bei der Luisa dann im Gespräch rauskommt, weil ich ja auch schon mit ihr gesprochen habe und nicht wirklich was herausfinden konnte.",Decision-Making,Decision-Making
-3,2,734,technik,"L: Ich finde es super, dass Sie mit der Luisa sprechen und würde mich auch interessieren, was bei der Luisa dann im Gespräch rauskommt, weil ich ja auch schon mit ihr gesprochen habe und nicht wirklich was herausfinden konnte.",Verbalizing,Undefined attention reaction
-3,2,739,phase,"L: Und wenn Sie noch irgendwelche neuen Informationen haben, dann gerne melden und dann können wir auch überlegen gemeinsam, wie wir weiter vorangehen.",Decision-Making,Decision-Making
-3,2,744,phase,"E: Okay, ja, können wir machen und dann melden Sie sich nochmal bei mir, oder wie?",Decision-Making,Decision-Making
-3,2,749,phase,"L (glz.): Genau, Sie sprechen mit Luisa.",Decision-Making,Decision-Making
-3,2,754,phase,"L (glz.): Ich beobachte es in kommende Woche, ob die Hausaufgaben wieder kommen.",Decision-Making,Decision-Making
-3,2,759,phase,"L (glz.): Melde ihn zurück, falls sie wieder weiterhin fehlen und dann schauen wir das weitere Vorgehen.",Decision-Making,Decision-Making
-3,2,764,phase,"E: Ja, so machen wir es.",Concluding,Appointment
-3,2,769,phase,E: Das klingt nach einem Plan.,Concluding,Farewell
-3,2,774,phase,"L: Super, vielen Dank.",Concluding,Farewell
-3,2,779,phase,"E: Gut, klar.",Concluding,Farewell
-3,2,784,phase,L: Danke für das Gespräch.,Concluding,Farewell
-3,2,789,phase,"E (glz.): Danke, Frau Kreitz.",Concluding,Farewell
-3,2,794,phase,E: So machen wir es.,Concluding,Farewell
-3,2,799,phase,"L (glz.): Okay, dann einen schönen Tag Ihnen noch.",Concluding,Farewell
-3,2,804,phase,L: Tschüss.,Concluding,Farewell
-3,2,809,phase,"E: Danke, gleichfalls.",Concluding,Farewell
+2,1,19,Phase,"P: Ja, guten Morgen.",Beginning,Greeting
+2,1,24,Phase,"T (simul.): Okay, guten Morgen, Frau Svensson.",Beginning,Greeting
+2,1,29,Phase,"T (simul.): Schön, dass Sie hier sind, dass das geklappt hat.",Beginning,Greeting
+2,1,34,Phase,"T (simul.): Ich sehe auch mit dem Link, den ich Ihnen zugesendet habe per Zoom, das freut mich auf jeden Fall.",Beginning,Small talk
+2,1,39,Phase,T (simul.): Wie geht es Ihnen dazu?,Beginning,Small talk
+2,1,44,Phase,"P: Ja, prinzipiell gut, aber wir sind einfach sehr besorgt aktuell.",Beginning,Small talk
+2,1,49,Phase,"P: Wir sind total unzufrieden mit den Noten, die der Michel nach Hause bringt.",Informational,Informational
+2,1,54,Phase,P: Ich finde es,Informational,Informational
+2,1,59,Phase,"P: passt nicht zu dem, wie der Michel eigentlich oder was der Michel eigentlich an Leistung bringen kann.",Informational,Informational
+2,1,64,Phase,P: Er ist eigentlich ja wirklich ein cleverer Kerl.,Informational,Informational
+2,1,69,Phase,P: Er kann sich so gut Sachen merken.,Informational,Informational
+2,1,74,Phase,"P: Also wenn er sich für was interessiert, wie diese Bäume und",Informational,Informational
+2,1,79,Phase,"P: die ganzen Sachen, die sie gerade in HSU machen, da ist das total motiviert und kann sich das alles merken.",Informational,Informational
+2,1,84,Phase,"P: Aber die Noten, die dann kommen und vor allem auch Deutsch, die dann kommen, die sind so gar nicht das, was wir uns vorstellen.",Informational,Informational
+2,1,89,Phase,"P: Ich weiß nicht, das ist doch alles irgendwie ein bisschen zu schwer, glaube ich, was sie machen in der Schule.",Informational,Informational
+2,1,94,Phase,P: Das passt so zu den Kindern.,Informational,Informational
+2,1,99,Phase,P: Ich kann mir das nicht vorstellen.,Informational,Informational
+2,1,104,Phase,"T: Okay, ich verstehe.",Informational,Informational
+2,1,104,Technique,"T: Okay, ich verstehe.",Verbalizing,Undefined attention reaction
+2,1,109,Phase,P (simul.): Ja.,Informational,Informational
+2,1,114,Phase,"T: Also Sie meinten ja, dass Sie mit mir gerne über den Übertritt von Michel sprechen möchten.",Beginning,Content frame
+2,1,114,Technique,"T: Also Sie meinten ja, dass Sie mit mir gerne über den Übertritt von Michel sprechen möchten.",Structuring,Structuring
+2,1,119,Phase,"T: Ich würde sagen, das ist jetzt auf jeden Fall erstmal unser Hauptfokus in den nächsten acht Minuten, dass wir da versuchen, einfach die beste Lösung natürlich für Ihr Kind, für den Michel zu finden.",Beginning,Zeitlicher Rahmen
+2,1,119,Technique,"T: Ich würde sagen, das ist jetzt auf jeden Fall erstmal unser Hauptfokus in den nächsten acht Minuten, dass wir da versuchen, einfach die beste Lösung natürlich für Ihr Kind, für den Michel zu finden.",Structuring,Structuring
+2,1,124,Phase,"T: Und ich würde mich da auf jeden Fall freuen, wenn wir da zusammenarbeiten in der Hinsicht.",Beginning,Content frame
+2,1,129,Phase,"T: Sie haben jetzt schon erzählt, Sie sehen es jetzt aus Ihrer Sicht so, dass der Michel,",Informational,Informational
+2,1,129,Technique,"T: Sie haben jetzt schon erzählt, Sie sehen es jetzt aus Ihrer Sicht so, dass der Michel,",Paraphrasing,Paraphrasing
+2,1,134,Phase,"T: dass zwar eigentlich schon diese Begabung auf jeden Fall ein intelligentes Kind ist und sie sehen natürlich aber auf der anderen Seite, die Noten sind da auf jeden Fall nicht so, wie sie sich das wünschen.",Informational,Informational
+2,1,134,Technique,"T: dass zwar eigentlich schon diese Begabung auf jeden Fall ein intelligentes Kind ist und sie sehen natürlich aber auf der anderen Seite, die Noten sind da auf jeden Fall nicht so, wie sie sich das wünschen.",Paraphrasing,Paraphrasing
+2,1,139,Phase,T: Habe ich das richtig verstanden?,Informational,Informational
+2,1,144,Phase,"P: Wir würden ihn halt schon sehr, sehr gerne aufs Gymnasium schicken.",Informational,Informational
+2,1,149,Phase,"P: Der Papa von Michel und ich, wir haben beide studiert und das wünschen wir uns auch für Michel, dass er einfach aufs Gymnasium geht und ihm dann wirklich alle Türen offen stehen.",Informational,Informational
+2,1,154,Phase,"P: Er studieren kann, wenn er meint, er studiert dann nicht, dann macht er es halt nicht, aber er könnte es auf jeden Fall.",Informational,Informational
+2,1,159,Phase,P: Also er soll irgendwie alle Möglichkeiten haben.,Informational,Informational
+2,1,164,Phase,"T: Okay, also ich verstehe das dann richtig, der Übertritt, das ist Ihnen dann in der Hinsicht schon sehr wichtig, dass der Michael dann aufs Gymnasium geht, also das ist schon auf jeden Fall bei Ihnen zu Hause dann auch Thema, nehme ich an, oder wie ist da die Situation bei Ihnen daheim, wenn ich mich erinnere?",Informational,Informational
+2,1,164,Technique,"T: Okay, also ich verstehe das dann richtig, der Übertritt, das ist Ihnen dann in der Hinsicht schon sehr wichtig, dass der Michael dann aufs Gymnasium geht, also das ist schon auf jeden Fall bei Ihnen zu Hause dann auch Thema, nehme ich an, oder wie ist da die Situation bei Ihnen daheim, wenn ich mich erinnere?",Paraphrasing,Paraphrasing
+2,1,169,Phase,"P: Ja, wir sprechen da viel drüber.",Informational,Informational
+2,1,174,Phase,P: Wir sagen das dem Michel auch.,Informational,Informational
+2,1,179,Phase,P: Ich setze mich ja nachmittags viel mit ihm hin und übe die Sachen.,Informational,Informational
+2,1,184,Phase,P: Wir gucken dann nochmal in diese Merkhefte und was sie da alles haben und wiederholen das nochmal.,Informational,Informational
+2,1,189,Phase,P: Und ich übe das mit ihm.,Informational,Informational
+2,1,194,Phase,P: Es ist manchmal einfach echt zäh.,Informational,Informational
+2,1,199,Phase,P: Manche Sachen interessieren ihn einfach nicht.,Informational,Informational
+2,1,204,Phase,T (simul.): Ja.,Informational,Informational
+2,1,204,Technique,T (simul.): Ja.,Verbalizing,Undefined attention reaction
+2,1,209,Phase,"P: Und der Papa, der kommt ja dann spät von der Arbeit und der fragt dann, wie war es in der Schule und was hast du gelernt und so.",Informational,Informational
+2,1,214,Phase,P: Und da kommt dann immer nicht viel von ihm.,Informational,Informational
+2,1,219,Phase,"P: Da ist dann immer so, ja, ja, ja.",Informational,Informational
+2,1,224,Phase,"P: Also den Michael interessiert es irgendwie nicht so doll, wie seine Leistungen so sind.",Informational,Informational
+2,1,229,Phase,P: Ich weiß nicht.,Informational,Informational
+2,1,234,Phase,"P: Ich habe auch das Gefühl, dass...",Informational,Informational
+2,1,239,Phase,"P: Er hat irgendwie auch noch weniger Spaß seit einer Weile an dem, was so in der Schule passiert.",Informational,Informational
+2,1,244,Phase,"P: Ich weiß nicht, wie nehmen Sie ihn denn wahr?",Informational,Informational
+2,1,249,Phase,"T: Also ich kann auf jeden Fall jetzt schon mal aus ihrer Sicht festhalten, ich sehe, dass sie die Situation schon belastet und dass das für sie auf jeden Fall ein schwerer Punkt ist.",Informational,Informational
+2,1,249,Technique,"T: Also ich kann auf jeden Fall jetzt schon mal aus ihrer Sicht festhalten, ich sehe, dass sie die Situation schon belastet und dass das für sie auf jeden Fall ein schwerer Punkt ist.",Verbalizing,Statement
+2,1,254,Phase,"T: Dieser Übertritt, der liegt so ein bisschen im Magen, sehe ich.",Informational,Informational
+2,1,254,Technique,"T: Dieser Übertritt, der liegt so ein bisschen im Magen, sehe ich.",Verbalizing,Statement
+2,1,259,Phase,P (simul.): Mhm.,Informational,Informational
+2,1,264,Phase,"T: Und wahrscheinlich auch eben mit dem Michel zusammen, dass das jetzt eben gerade ein bisschen hapert daran.",Informational,Informational
+2,1,269,Phase,T: Ja.,Informational,Informational
+2,1,274,Phase,"T: Ja, also ich kann aus jedem Fall aus meiner Sicht sagen, dass ich den Michael auch als sehr interessierten Jungen wahrnehme, vor allem eben in den HSU-Themen.",Informational,Informational
+2,1,279,Phase,"T: Bäume, Pflanzen, da ist er auf jeden Fall sehr interessiert immer.",Informational,Informational
+2,1,284,Phase,"T: Trotzdem muss ich auch sagen, natürlich, ich sehe das auch, dass ihm gerade so die schriftlichen Arbeiten schon auch schwerfallen.",Informational,Informational
+2,1,289,Phase,T: Sein Schriftbild ist ja immer noch ziemlich unordentlich und...,Informational,Informational
+2,1,294,Phase,"T: Genau, da finde ich, ist der Michael einfach, seine Stärken sind auf jeden Fall eher in diesem freien Erzählen, in diesem lebhaften Erzählen, da geht er auch immer richtig auf im Morgenkreis und so.",Informational,Informational
+2,1,299,Phase,T: Allerdings ist es dann eben bei den schriftlichen Arbeiten ein bisschen schwieriger.,Informational,Informational
+2,1,304,Phase,"T: Ich weiß nicht, wie ist das aus Ihrer Sicht, wie nehmen Sie das zu Hause wahr?",Informational,Informational
+2,1,309,Phase,T: Sehen Sie das auch so?,Informational,Informational
+2,1,309,Technique,T: Sehen Sie das auch so?,Verbalizing,Weiterführende Frage
+2,1,314,Phase,P: Total.,Informational,Informational
+2,1,319,Phase,P: Und ich finde jetzt gerade Deutsch auch irgendwie schwierig.,Informational,Informational
+2,1,324,Phase,"P: Wenn er da eine Fantasiegeschichte schreiben soll, ist das nochmal was anderes.",Informational,Informational
+2,1,329,Phase,"P: Aber so diese Sachen, diese Sachtexte oder Brief und sowas, die da alles so machen, das ist ihm einfach wurscht.",Informational,Informational
+2,1,334,Phase,"P: Da ist er nicht besonders motiviert, sich dann da an irgendwelche Regeln zu halten und da irgendwelche Anredefloskeln auszuwählen.",Informational,Informational
+2,1,339,Phase,P: Das ist ihm alles so ein bisschen...,Informational,Informational
+2,1,344,Phase,P: Ja.,Informational,Informational
+2,1,349,Phase,"P: Ja, Regeln.",Informational,Informational
+2,1,354,Phase,P: Ja.,Informational,Informational
+2,1,359,Phase,"T: Okay, also ich glaube, wir können an dem Punkt schon mal festhalten, dass wir beide das auch so sehen, dass der Michael seine Stärken auf jeden Fall eher in der praktischen Richtung hat und jetzt nicht so in diesem typischen, ich nenne es einfach mal so, auswendig lernen oder so nach Regeln bearbeiten.",Informational,Informational
+2,1,359,Technique,"T: Okay, also ich glaube, wir können an dem Punkt schon mal festhalten, dass wir beide das auch so sehen, dass der Michael seine Stärken auf jeden Fall eher in der praktischen Richtung hat und jetzt nicht so in diesem typischen, ich nenne es einfach mal so, auswendig lernen oder so nach Regeln bearbeiten.",Paraphrasing,Paraphrasing
+2,1,364,Phase,"T: Ja, nun ist es ja so, Frau Svensson, dass das natürlich auf dem Gymnasium schon eher von den Kindern erwartet wird, eben diese theoretische Ausbildung.",Argumentative,Argumentative
+2,1,369,Phase,T: Dafür steht das Gymnasium ja auch.,Argumentative,Argumentative
+2,1,374,Phase,"T: Jetzt wäre es natürlich, mich würde es freuen, wenn ich mit Ihnen zusammen nochmal überlegen könnte, was ist denn die passende Schulform für den Michael?",Argumentative,Argumentative
+2,1,379,Phase,"T: Natürlich verstehe ich das, dass Sie den Michi eine gute Ausbildung ermöglichen möchten.",Argumentative,Argumentative
+2,1,384,Phase,T: Ich kann Ihnen an der Stelle aber auf jeden Fall nochmal eventuell ein bisschen den Druck rausnehmen.,Argumentative,Argumentative
+2,1,389,Phase,"T: Nur wenn der Michi jetzt nicht aus Gymnasium geht, bedeutet das nicht, dass er später nicht sein Abitur machen kann.",Argumentative,Argumentative
+2,1,394,Phase,"T: Also es gibt auf jeden Fall ganz, ganz viele Möglichkeiten und Wege.",Argumentative,Argumentative
+2,1,399,Phase,"T: Sie haben ja, glaube ich, auch schon den Elternabend zum Übertritt besucht.",Argumentative,Argumentative
+2,1,404,Phase,"T: Auch wenn Michael jetzt die Realschule besuchen würde, gibt es natürlich immer noch die Möglichkeit, dass er gleich nach der fünften Klasse wieder aufs Gymnasium wechselt, wenn wir jetzt sehen, das ist das Richtige für ihn.",Argumentative,Argumentative
+2,1,409,Phase,T: Oder dann später auf der Voss oder so auch seine Hochschulreife erlangt.,Argumentative,Argumentative
+2,1,414,Phase,T: Also da können Sie auf jeden Fall in der Hinsicht schon mal durchatmen.,Argumentative,Argumentative
+2,1,419,Phase,P: Okay.,Argumentative,Argumentative
+2,1,424,Phase,"P: Ja, das hieß ja, das System ist ein bisschen durchlässig.",Argumentative,Argumentative
+2,1,429,Phase,"P: Ja, wir würden ihn halt gerne gleich aufs Gymnasium schicken und dann sagen,",Argumentative,Argumentative
+2,1,434,Phase,P: da bleibt er und das zieht er durch.,Argumentative,Argumentative
+2,1,439,Phase,"P: Meinen Sie, es ist vielleicht noch nicht der Moment tatsächlich, dass man ihn erst später dahin schickt?",Argumentative,Argumentative
+2,1,444,Phase,"T: Ich meine, ich verstehe auf jeden Fall auch Ihren Standpunkt.",Argumentative,Argumentative
+2,1,444,Technique,"T: Ich meine, ich verstehe auf jeden Fall auch Ihren Standpunkt.",Verbalizing,Undefined attention reaction
+2,1,449,Phase,"T: Ich würde mir natürlich wünschen, dass der Michel halt einfach die Schulform für sich findet, die halt am besten zu seinen Interessen und zu seinen Stärken passt.",Argumentative,Argumentative
+2,1,454,Phase,"T: Natürlich, wie wäre das denn für Sie, wenn Sie sich jetzt nochmal mit dem Michel zusammensetzen würden und vielleicht einfach mal...",Argumentative,Argumentative
+2,1,459,Phase,"T: ich weiß nicht, vielleicht sogar auf einer Mindmap einfach mal visualisieren, was ist denn für den Michel im Moment wichtig?",Argumentative,Argumentative
+2,1,464,Phase,T: Was sind gerade meine Stärken?,Argumentative,Argumentative
+2,1,469,Phase,T: Wo sehe ich mich?,Argumentative,Argumentative
+2,1,474,Phase,P: Das ist eine gute Idee.,Argumentative,Argumentative
+2,1,479,Phase,"T (simul.): Also, dass der Michel einfach sich vielleicht dann nochmal ein bisschen klarer wird und das vielleicht auch nochmal sich so in den Kopf ruft und dass sie sich dann nochmal mit dem Michel zusammensetzen und dann nochmal vielleicht gucken, welche Schulart verkörpert diese Interessen am besten?",Argumentative,Argumentative
+2,1,484,Phase,T (simul.): Wie sehen sie das denn?,Argumentative,Argumentative
+2,1,489,Phase,T (simul.): Mhm.,Argumentative,Argumentative
+2,1,494,Phase,P: Das ist echt eine gute Idee.,Argumentative,Argumentative
+2,1,499,Phase,"P: Tatsächlich eine Mindmap, das könnte ich mir vorstellen.",Argumentative,Argumentative
+2,1,504,Phase,P: Dass wir das,Argumentative,Argumentative
+2,1,509,Phase,P: das so mal besprechen können.,Argumentative,Argumentative
+2,1,514,Phase,"P: Weil sonst ist das tatsächlich gerade nicht so griffig für ihn irgendwie, worum es eigentlich geht.",Argumentative,Argumentative
+2,1,519,Phase,"T (simul.): Ja, verstehe ich, ja.",Argumentative,Argumentative
+2,1,519,Technique,"T (simul.): Ja, verstehe ich, ja.",Verbalizing,Undefined attention reaction
+2,1,524,Phase,"P: Aber ja, wenn wir einfach, das ist wirklich eine gute Idee.",Argumentative,Argumentative
+2,1,529,Phase,"P: Das mache ich, ja.",Argumentative,Argumentative
+2,1,534,Phase,"T: Und ich dürfte Ihnen auch noch einen Tipp geben, also viele Schulen bieten auch zum Beispiel so einen Probetag an, da können Sie einfach mal mit mir vorbeischauen, sich den Unterricht mal anschauen.",Argumentative,Argumentative
+2,1,539,Phase,P (simul.): Mhm.,Argumentative,Argumentative
+2,1,544,Phase,"T: Ich finde, da wird das Ganze auch immer noch mal ein bisschen griffiger, ein bisschen lebhafter, was denn die Anforderungen von den Schulen genau sind.",Argumentative,Argumentative
+2,1,549,Phase,"T: Genau, wenn Sie sich das vorstellen können, könnte ich Ihnen auch noch mal die Termine von den Schulen hier im Umkreis schicken, dann können Sie sich das auch noch mal mit Ihrem Mann zusammen umso überlegen, ja.",Decision-Making,Decision-Making
+2,1,554,Phase,"P: Ja, gerne.",Decision-Making,Decision-Making
+2,1,559,Phase,P: Das ist eine gute Idee.,Decision-Making,Decision-Making
+2,1,564,Phase,P: Vielen Dank.,Decision-Making,Decision-Making
+2,1,569,Phase,"P: Das finde ich ganz gut, dass man den Michel selber noch mal ein bisschen mit ins Boot holt.",Decision-Making,Decision-Making
+2,1,574,Phase,"P: Auch ein bisschen, was interessiert ihn.",Decision-Making,Decision-Making
+2,1,579,Phase,"P: Vielleicht müssen wir uns ein bisschen von dem Gedanken verabschieden, dass er direkt aufs Gymnasium geht, so wie wir das gemacht haben, mein Mann und ich.",Decision-Making,Decision-Making
+2,1,584,Phase,P: Vielleicht hat er da einfach einen anderen Weg.,Decision-Making,Decision-Making
+2,1,589,Phase,P: Ja.,Decision-Making,Decision-Making
+2,1,594,Phase,"T: Genau, jedes Kind ist ja individuell, jedes Kind findet auch seinen Weg und ich bin mir auch sicher, dass wir da die gute Lösung für den Michel finden.",Decision-Making,Decision-Making
+2,1,599,Phase,"T: Es steht ja jetzt dann im Mai noch das Übertrittszeugnis an und wenn Sie natürlich wollen, können wir natürlich da auf jeden Fall uns nochmal zusammensetzen, wenn dann letztendlich die Noten auch feststehen.",Concluding,Sonstiges
+2,1,604,Phase,P (simul.): ja ja ja ja,Concluding,Appointment
+2,1,609,Phase,T: Ansonsten würde ich jetzt für dieses Gespräch erstmal festhalten.,Concluding,Wertschätzende Reflexion
+2,1,609,Technique,T: Ansonsten würde ich jetzt für dieses Gespräch erstmal festhalten.,Structuring,Structuring
+2,1,614,Phase,"T: Sie setzen sich mit Michel nochmal zusammen, besprechen nochmal die wichtigsten Punkte, welche Schulart",Concluding,Wertschätzende Reflexion
+2,1,614,Technique,"T: Sie setzen sich mit Michel nochmal zusammen, besprechen nochmal die wichtigsten Punkte, welche Schulart",Structuring,Structuring
+2,1,619,Phase,"T: steht für welche Dinge, was ist ihm wichtig und dann können Sie auch gerne nochmal auf mich zukommen.",Concluding,Wertschätzende Reflexion
+2,1,619,Technique,"T: steht für welche Dinge, was ist ihm wichtig und dann können Sie auch gerne nochmal auf mich zukommen.",Structuring,Structuring
+2,1,624,Phase,"P (simul.): Super, das ist eine gute Idee.",Concluding,Wertschätzende Reflexion
+2,1,629,Phase,"P (simul.): Und mein Mann und ich, wir setzen uns auch nochmal zusammen und überlegen uns, ob wir uns ein bisschen von den Gedanken lösen können, dass das jetzt so auf dem direkten, geraden Weg alles läuft.",Concluding,Wertschätzende Reflexion
+2,1,634,Phase,"T: Okay, super Frau Frenzer, dann bedanke ich mich für das Gespräch und wünsche Ihnen noch einen wunderschönen Tag.",Concluding,Farewell
+2,1,639,Phase,P (simul.): Ja.,Concluding,Farewell
+2,1,644,Phase,P: Danke Ihnen.,Concluding,Farewell
+2,1,649,Phase,"P: Ja, danke Ihnen auch.",Concluding,Farewell
+2,1,654,Phase,T: Tschüss.,Concluding,Farewell
+2,1,659,Phase,P: Tschüss.,Concluding,Farewell
+3,2,59,Phase,"T (simul.): So, hallo, Herr Grün.",Beginning,Greeting
+3,2,64,Phase,"T: Schön, Sie zu sehen.",Beginning,Greeting
+3,2,69,Phase,P (simul.): Hallo Frau Kall.,Beginning,Greeting
+3,2,74,Phase,P (simul.): Ja.,Beginning,Greeting
+3,2,79,Phase,"T: Danke, dass Sie es einrichten konnten.",Beginning,Greeting
+3,2,84,Phase,"T: Ich hoffe, Sie haben es sich bequem gemacht und ein ruhiges Plätzchen gefunden.",Beginning,Small talk
+3,2,89,Phase,"P: Ja, ja, passt.",Beginning,Small talk
+3,2,94,Phase,P: Passt auch.,Beginning,Small talk
+3,2,99,Phase,P: Okay.,Beginning,Small talk
+3,2,104,Phase,P: Okay.,Beginning,Small talk
+3,2,109,Phase,T: Okay.,Beginning,Small talk
+3,2,109,Technique,T: Okay.,Verbalizing,Undefined attention reaction
+3,2,114,Phase,"T: Ähm,",Beginning,Small talk
+3,2,119,Phase,"T: Ja, also kurz allgemein.",Beginning,Content frame
+3,2,124,Phase,"T: Sie haben wirklich eine tolle Zweitlisterin zu Hause, Herr Grün.",Beginning,Content frame
+3,2,129,Phase,"T: Sie ist sehr engagiert, meldet sich viel, arbeitet aktiv im Unterricht mit.",Beginning,Content frame
+3,2,134,Phase,T: Also es ist wirklich eine Bereicherung für die Klasse und den Unterricht.,Beginning,Content frame
+3,2,139,Phase,"T: Umso mehr überrascht es mich, dass immer häufiger ihr Hausaufgaben fehlen.",Beginning,Content frame
+3,2,144,Phase,"T: Ja, also ich habe da auch schon öfter mit der Luisa drüber gesprochen.",Informational,Informational
+3,2,149,Phase,T: Vielleicht haben sie auch mal mit dir geredet oder sie hat Ihnen was erzählt.,Informational,Informational
+3,2,154,Phase,"P: Also habe ich jetzt eigentlich gar nichts mitbekommen, weil die Luisa macht eigentlich immer alles selbstständig und also ich habe da eigentlich gar nichts mitbekommen.",Informational,Informational
+3,2,159,Phase,"P: Also vielleicht hat sie einfach mal vergessen, die Hausaufgaben abzugeben oder so.",Informational,Informational
+3,2,164,Phase,"T (simul.): Okay, also Sie sagen, die Luisa macht die Hausaufgaben selbstständig?",Informational,Informational
+3,2,164,Technique,"T (simul.): Okay, also Sie sagen, die Luisa macht die Hausaufgaben selbstständig?",Paraphrasing,Paraphrasing
+3,2,169,Phase,"P: Also ich finde auch, dass...",Informational,Informational
+3,2,174,Phase,"P: die Luisa, die macht sowieso eigentlich so ihr Ding, die geht dann auch mal mit den Hunden und den Katzen irgendwie raus, sie ist beim Reiten am Nachmittag und ich verlasse mich eigentlich drauf.",Informational,Informational
+3,2,179,Phase,"P: Also meine Frau und ich, wir sind da eigentlich so der Meinung, dass die Luisa das alles macht und ja, also vielleicht hat sie es einfach mal vergessen abzugeben, kann das sein?",Informational,Informational
+3,2,184,Phase,P: Ja.,Informational,Informational
+3,2,189,Phase,"T: Es ist jetzt leider kein Einzelfall, also es fehlen schon häufiger die Hausaufgaben und man merkt das inzwischen auch an den Leistungen.",Informational,Informational
+3,2,194,Phase,"P: Ah, okay.",Informational,Informational
+3,2,199,Phase,"P: Ja, also, okay, dann, also, ja, habe ich jetzt gar nicht so wahrgenommen.",Informational,Informational
+3,2,204,Phase,"T: Ja, also sie wirken auch etwas überrascht und verständlicherweise, wenn sie davon ausgehen, dass die Luisa das eigentlich selbstständig macht.",Informational,Informational
+3,2,204,Technique,"T: Ja, also sie wirken auch etwas überrascht und verständlicherweise, wenn sie davon ausgehen, dass die Luisa das eigentlich selbstständig macht.",Verbalizing,Statement
+3,2,209,Phase,P: Mhm.,Informational,Informational
+3,2,214,Phase,"T: Da bin ich ja froh, dass wir jetzt ins Gespräch kommen und ich Ihnen die Infos mitteilen kann.",Informational,Informational
+3,2,219,Phase,P (simul.): Mhm.,Informational,Informational
+3,2,224,Phase,"T: Vielleicht können Sie noch mal kurz schildern, die Luisa kommt von der Schule nach Hause und dann, wie sieht Ihr Nachmittag aus?",Informational,Informational
+3,2,224,Technique,"T: Vielleicht können Sie noch mal kurz schildern, die Luisa kommt von der Schule nach Hause und dann, wie sieht Ihr Nachmittag aus?",Verbalizing,Clarifying question
+3,2,229,Phase,"P: Ja, dann ist sie meistens was mit uns oder mit meiner, wer halt zu Hause ist, manchmal bin ich im Homeoffice oder so.",Informational,Informational
+3,2,234,Phase,"P: Ja, und dann geht sie eigentlich in ihr Zimmer und dann macht sie die Hausaufgaben und dann geht sie meistens raus irgendwie zum, also die geht ja wie gesagt auch reiten und ja.",Informational,Informational
+3,2,239,Phase,"P: Es ist dann draußen und ich habe eigentlich ehrlich gesagt, ich finde das auch eine Zweitklässlerin, die kann doch eigenständig ihre Sachen machen.",Informational,Informational
+3,2,244,Phase,"P: Also ich finde, da soll die auch selber die Verantwortung übernehmen.",Informational,Informational
+3,2,249,Phase,"P: Und ich gehe immer davon aus, dass sie ihre Hausaufgaben gemacht hat.",Informational,Informational
+3,2,254,Phase,"P: Ich kontrolliere das jetzt auch nicht extra nochmal, weil ich denke, das kann ein Kind in der zweiten Klasse oder sollte es einfach auch selbstständig machen können.",Informational,Informational
+3,2,259,Phase,"T: Okay, also Sie überprüfen das nicht und sind der Meinung, eine Zweitklässlerin sollte das können.",Informational,Informational
+3,2,259,Technique,"T: Okay, also Sie überprüfen das nicht und sind der Meinung, eine Zweitklässlerin sollte das können.",Paraphrasing,Paraphrasing
+3,2,264,Phase,"P: Ja, finde ich schon.",Informational,Informational
+3,2,269,Phase,"P: Also das ist doch, also ja, finde ich schon.",Informational,Informational
+3,2,274,Phase,"P: Also ich meine, es ist ja auch nicht so, dass ihr nachher im Leben alles nachgetragen wird, sondern ich finde, die muss einfach da selber die Verantwortung übernehmen.",Informational,Informational
+3,2,279,Phase,"P: So, oder?",Informational,Informational
+3,2,284,Phase,"T: Also Herr Grün, ich finde es toll, dass Sie Ihrer Tochter das zutrauen, in der zweiten Klasse schon zu schaffen.",Informational,Informational
+3,2,284,Technique,"T: Also Herr Grün, ich finde es toll, dass Sie Ihrer Tochter das zutrauen, in der zweiten Klasse schon zu schaffen.",Verbalizing,Undefined attention reaction
+3,2,289,Phase,"T: Im Vergleich zur ersten Klasse, haben Sie da noch mit drauf geschaut?",Informational,Informational
+3,2,289,Technique,"T: Im Vergleich zur ersten Klasse, haben Sie da noch mit drauf geschaut?",Verbalizing,Clarifying question
+3,2,294,Phase,"P: Ja, da haben wir natürlich, klar, bis die sich mal so ein bisschen eingespielt hat, aber jetzt so in der zweiten Klasse, mein Gott, also das läuft ja.",Informational,Informational
+3,2,299,Phase,"P: Ah ja, Entschuldigung.",Informational,Informational
+3,2,304,Phase,"T: Wohl möglicherweise liegt es auch gar nicht daran, dass sie nicht zuverlässig ist, sondern dass vielleicht einfach es an Motivation fehlt für die Hausaufgaben oder sie vielleicht doch noch so ab und zu einen Impuls von den Eltern bräuchte, Herr Grün, weil man merkt es an ihrer Leistung.",Informational,Informational
+3,2,309,Phase,"T: Also es ist wichtig, dass sie die Hausaufgaben macht, zuverlässig und da braucht sie vielleicht einfach doch noch Unterstützung in der zweiten Klasse.",Argumentative,Argumentative
+3,2,314,Phase,"P: also ich sehe es ein bisschen anders, aber also ja, also vielleicht sollte ich dann halt mal, ja, dann reden wir halt mal mit der Luisa irgendwie oder auch nochmal, aber ich, also so perspektivisch sollte doch eigentlich, sollte sie das schon selber machen irgendwie, aber ich, also ja, also Leistungen habe ich jetzt auch noch gar nicht so mitbekommen, also wie meinen Sie, also hat sie gerade schlecht, also die kriegen doch jetzt erst zum Ende,",Argumentative,Argumentative
+3,2,319,Phase,P: Vom zweiten Halbjahr.,Argumentative,Argumentative
+3,2,324,Phase,P: Jetzt ist doch... Haben die schon die Zeugnisse bekommen?,Argumentative,Argumentative
+3,2,329,Phase,"T: Die Sätze stehen noch aus, die kommen jetzt in den nächsten.",Argumentative,Argumentative
+3,2,334,Phase,"P (simul.): Ja, eben.",Argumentative,Argumentative
+3,2,339,Phase,P (simul.): Aber die kriegen jetzt das erste... Kriegen die jetzt in der zweiten Klasse schon Noten im zweiten Halbjahr?,Argumentative,Argumentative
+3,2,344,Phase,"P: Nee, im ersten Mal.",Argumentative,Argumentative
+3,2,349,Phase,"T: Bei Gründung im zweiten Halbjahr kriegen Sie dann Noten, richtig?",Argumentative,Argumentative
+3,2,349,Technique,"T: Bei Gründung im zweiten Halbjahr kriegen Sie dann Noten, richtig?",Paraphrasing,Paraphrasing
+3,2,354,Phase,P: Aber jetzt noch nicht.,Argumentative,Argumentative
+3,2,359,Phase,"T: Jetzt noch nicht, aber es ist natürlich, Herr Grün, darf ich Ihnen kurz meine Sicht erklären.",Argumentative,Argumentative
+3,2,359,Technique,"T: Jetzt noch nicht, aber es ist natürlich, Herr Grün, darf ich Ihnen kurz meine Sicht erklären.",Structuring,Structuring
+3,2,364,Phase,P (simul.): Okay.,Argumentative,Argumentative
+3,2,369,Phase,"P (simul.): Ja, ja.",Argumentative,Argumentative
+3,2,374,Phase,"T: Die Hausaufgaben sind dafür da, dass der Stoff, den man im Unterricht erarbeitet, nochmal zu Hause geübt und gefestigt wird.",Argumentative,Argumentative
+3,2,379,Phase,"T: Das ist wichtig, um darauf aufbauen zu können und dass die Kinder dann die Möglichkeit haben, damit weiterzuarbeiten.",Argumentative,Argumentative
+3,2,384,Phase,"P: Ja, aber das ist ja eigentlich meine Aufgabe, das ist ja eigentlich Aufgabe der Schule, oder?",Argumentative,Argumentative
+3,2,389,Phase,"T: Was genau, Herr Grün?",Argumentative,Argumentative
+3,2,389,Technique,"T: Was genau, Herr Grün?",Verbalizing,Clarifying question
+3,2,394,Phase,"P: Naja, also eigentlich ist doch die Schule dazu da, den Kindern die Sachen beizubringen und sie so auszustatten, dass sie das lernen können.",Argumentative,Argumentative
+3,2,399,Phase,"P: Das ist ja nicht mein Job eigentlich, mit denen die Hausaufgaben zu machen, oder?",Argumentative,Argumentative
+3,2,404,Phase,"T: Nein, nein, darauf möchte ich auch gar nicht hinaus.",Argumentative,Argumentative
+3,2,409,Phase,T: Also sie soll nicht mit Luisa zusammen die Hausaufgaben machen.,Argumentative,Argumentative
+3,2,409,Technique,T: Also sie soll nicht mit Luisa zusammen die Hausaufgaben machen.,Paraphrasing,Paraphrasing
+3,2,414,Phase,P (simul.): Aha.,Argumentative,Argumentative
+3,2,419,Phase,T: Das ist richtig.,Argumentative,Argumentative
+3,2,424,Phase,T: Sie soll sie selbstständig und alleine arbeiten.,Argumentative,Argumentative
+3,2,429,Phase,"T: Aber es muss vielleicht doch nochmal jemand mit drauf schauen, dass sie sie wirklich zu Hause macht.",Argumentative,Argumentative
+3,2,434,Phase,P (simul.): Okay.,Argumentative,Argumentative
+3,2,439,Phase,P (simul.): Also sie macht sie gar nicht.,Argumentative,Argumentative
+3,2,444,Phase,P: Aha.,Argumentative,Argumentative
+3,2,449,Phase,"T (simul.): Richtig, sie macht die Hausaufgaben nicht.",Argumentative,Argumentative
+3,2,454,Phase,P: Okay.,Argumentative,Argumentative
+3,2,459,Phase,"P: Ja, okay.",Argumentative,Argumentative
+3,2,464,Phase,P: So werde muss ich mal mit ihr reden.,Argumentative,Argumentative
+3,2,469,Phase,P: Also macht die Hausaufgaben nicht.,Argumentative,Argumentative
+3,2,474,Phase,P: Und wie lange ist das jetzt schon?,Argumentative,Argumentative
+3,2,479,Phase,"T: Also es nimmt zu, jetzt seit zwei Wochen, dass es immer wieder, also dass es häufiger fehlt.",Argumentative,Argumentative
+3,2,484,Phase,P (simul.): Okay.,Argumentative,Argumentative
+3,2,489,Phase,P (simul.): Zwei Wochen Hausaufgaben fehlen.,Argumentative,Argumentative
+3,2,494,Phase,P (simul.): Juhu.,Argumentative,Argumentative
+3,2,499,Phase,"P: Dann, okay.",Argumentative,Argumentative
+3,2,504,Phase,"T: Okay, Herr König, ich freue mich, dass Sie mitschreiben.",Argumentative,Argumentative
+3,2,504,Technique,"T: Okay, Herr König, ich freue mich, dass Sie mitschreiben.",Verbalizing,Undefined attention reaction
+3,2,509,Phase,"T: Vielleicht können Sie mir einen Vorschlag machen, wie gehen wir jetzt weiter vor?",Argumentative,Argumentative
+3,2,509,Technique,"T: Vielleicht können Sie mir einen Vorschlag machen, wie gehen wir jetzt weiter vor?",Paraphrasing,Paraphrasing
+3,2,514,Phase,"P: Ja, also ich werde jetzt mal als erstes mal, also muss ich mal mit meiner Frau auch reden.",Argumentative,Argumentative
+3,2,519,Phase,P: Wir beide werden mal schauen.,Argumentative,Argumentative
+3,2,524,Phase,"P: Und dann frage ich mal die Luisa, weil ich ehrlich gesagt schon davon ausgegangen bin, dass sie die macht.",Argumentative,Argumentative
+3,2,529,Phase,P: Also ich bin jetzt da wirklich überrascht.,Argumentative,Argumentative
+3,2,534,Phase,"P: Und sie sagen, seit so ungefähr zwei Wochen",Argumentative,Argumentative
+3,2,539,Phase,"T: Genau richtig, seit zwei Wochen.",Argumentative,Argumentative
+3,2,544,Phase,"P (simul.): Ja, dann, also ich würde mal mit ihr reden und fragen, was da los ist.",Argumentative,Argumentative
+3,2,549,Phase,"P (simul.): Und dann sagten sie ja auch, also wir sollen jetzt nicht die Hausaufgaben mit ihr machen, aber wir sollen, also erster Schritt wäre mal, dass wir nochmal einfach überhaupt drauf schauen, dass sie die Hausaufgaben macht.",Argumentative,Argumentative
+3,2,554,Phase,T: Ganz genau.,Argumentative,Argumentative
+3,2,559,Phase,"T: Sie schauen darauf, dass die Luisa zu Hause die Hausaufgaben macht.",Argumentative,Argumentative
+3,2,559,Technique,"T: Sie schauen darauf, dass die Luisa zu Hause die Hausaufgaben macht.",Paraphrasing,Paraphrasing
+3,2,564,Phase,T: Sie soll sie auf jeden Fall alleine machen.,Argumentative,Argumentative
+3,2,569,Phase,P: Okay.,Argumentative,Argumentative
+3,2,574,Phase,P: Mhm.,Argumentative,Argumentative
+3,2,579,Phase,"T: Genau, einfach nochmal dahinter sein, dass das wirklich zu Hause geschieht.",Argumentative,Argumentative
+3,2,579,Technique,"T: Genau, einfach nochmal dahinter sein, dass das wirklich zu Hause geschieht.",Paraphrasing,Paraphrasing
+3,2,584,Phase,P (simul.): Aber wir sollen noch mal draufschauen.,Argumentative,Argumentative
+3,2,589,Phase,P (simul.): Werden denn die Hausaufgaben in der Schule auch kontrolliert eigentlich dann oder wie läuft das?,Informational,Informational
+3,2,594,Phase,"P (simul.): Also schauen Sie sich die an oder gucken Sie einfach nur, ob die gemacht sind oder wie ist das?",Informational,Informational
+3,2,599,Phase,"T: Selbstverständlich, ich schaue darauf.",Informational,Informational
+3,2,604,Phase,"T: Das ist natürlich auch für mich eine Rückmeldung, was können die Kinder, was von dem Stoff, was sie im Unterricht gelernt haben, können sie auch tatsächlich anwenden.",Informational,Informational
+3,2,609,Phase,"T: Und da fällt mir auch auf, wenn was fehlt.",Informational,Informational
+3,2,614,Phase,P: Okay.,Argumentative,Argumentative
+3,2,619,Phase,P: Okay.,Argumentative,Argumentative
+3,2,624,Phase,"P: Und okay, das ist ja das eine.",Informational,Informational
+3,2,629,Phase,"P: Und Sie sagten, die Leistungen seien auch schlechter geworden.",Informational,Informational
+3,2,634,Phase,"P: Also wenn die noch keine Noten kriegen, wie oder woran stellen Sie das fest, dass die Leistungen von der Luisa schlechter werden?",Informational,Informational
+3,2,639,Phase,P: Ja.,Informational,Informational
+3,2,644,Phase,"T: Ich verstehe, dass Sie das jetzt auch noch interessiert.",Informational,Informational
+3,2,644,Technique,"T: Ich verstehe, dass Sie das jetzt auch noch interessiert.",Verbalizing,Undefined attention reaction
+3,2,649,Phase,T: Es ist jetzt noch nicht gravierend.,Informational,Informational
+3,2,654,Phase,"T: Also man merkt einfach dadurch, dass eben die Übung zu Hause fehlt, dass sie Schwierigkeiten hat, dann schwierigere Aufgaben zu bearbeiten.",Informational,Informational
+3,2,659,Phase,"P: Aber, also, weil sie einfach dann in der Schule das nicht so gut kann, daran fällt Ihnen das auf?",Informational,Informational
+3,2,664,Phase,P: Oder weil es ja keine Noten gibt jetzt momentan?,Informational,Informational
+3,2,669,Phase,"P: Oder Sie merken einfach, Sie kann die Sachen dann nicht so gut im Unterricht?",Informational,Informational
+3,2,674,Phase,P: Oder wie äußert sich das?,Informational,Informational
+3,2,679,Phase,"T: Sie hat zu wenig zu Hause geübt, um das dann in der Schule, also es ist natürlich auch, die Hausaufgaben sind dafür da, um nochmal Dinge zu wiederholen.",Informational,Informational
+3,2,684,Phase,P: Aha.,Informational,Informational
+3,2,689,Phase,"T: Und wenn man es nicht oft genug wiederholt, dann vergisst man es mit der Zeit auch.",Informational,Informational
+3,2,694,Phase,"T: Und wenn dann zum Beispiel irgendwie so Anwendungsaufgaben drankommen und sie es schon länger nicht mehr gemacht hat, weil sie die Hausaufgaben nicht gemacht hat, dann muss sie natürlich erstmal wieder von vorne starten und sich überlegen, wie geht das jetzt nochmal.",Informational,Informational
+3,2,699,Phase,"P: Okay, gut.",Informational,Informational
+3,2,704,Phase,"P: Also dann rede ich mal mit der Luisa und wir gucken mal und fragen, was da los ist.",Decision-Making,Decision-Making
+3,2,709,Phase,P: Und,Decision-Making,Decision-Making
+3,2,714,Phase,"P: Ihrerseits würden Sie jetzt mir auch, wenn das jetzt weiter vorkäme, würden Sie mir auch Bescheid geben, dass die Luisa die Hausaufgaben nicht gemacht hat.",Decision-Making,Decision-Making
+3,2,719,Phase,P: Ja.,Decision-Making,Decision-Making
+3,2,724,Phase,T: Auf jeden Fall.,Decision-Making,Decision-Making
+3,2,729,Phase,T: Ich würde gerne mit Ihnen in Kontakt bleiben.,Decision-Making,Decision-Making
+3,2,734,Phase,"T: Ich finde es super, dass Sie mit der Luisa sprechen und würde mich auch interessieren, was bei der Luisa dann im Gespräch rauskommt, weil ich ja auch schon mit ihr gesprochen habe und nicht wirklich was herausfinden konnte.",Decision-Making,Decision-Making
+3,2,734,Technique,"T: Ich finde es super, dass Sie mit der Luisa sprechen und würde mich auch interessieren, was bei der Luisa dann im Gespräch rauskommt, weil ich ja auch schon mit ihr gesprochen habe und nicht wirklich was herausfinden konnte.",Verbalizing,Undefined attention reaction
+3,2,739,Phase,"T: Und wenn Sie noch irgendwelche neuen Informationen haben, dann gerne melden und dann können wir auch überlegen gemeinsam, wie wir weiter vorangehen.",Decision-Making,Decision-Making
+3,2,744,Phase,"P: Okay, ja, können wir machen und dann melden Sie sich nochmal bei mir, oder wie?",Decision-Making,Decision-Making
+3,2,749,Phase,"T (simul.): Genau, Sie sprechen mit Luisa.",Decision-Making,Decision-Making
+3,2,754,Phase,"T (simul.): Ich beobachte es in kommende Woche, ob die Hausaufgaben wieder kommen.",Decision-Making,Decision-Making
+3,2,759,Phase,"T (simul.): Melde ihn zurück, falls sie wieder weiterhin fehlen und dann schauen wir das weitere Vorgehen.",Decision-Making,Decision-Making
+3,2,764,Phase,"P: Ja, so machen wir es.",Concluding,Appointment
+3,2,769,Phase,P: Das klingt nach einem Plan.,Concluding,Farewell
+3,2,774,Phase,"T: Super, vielen Dank.",Concluding,Farewell
+3,2,779,Phase,"P: Gut, klar.",Concluding,Farewell
+3,2,784,Phase,T: Danke für das Gespräch.,Concluding,Farewell
+3,2,789,Phase,"P (simul.): Danke, Frau Kreitz.",Concluding,Farewell
+3,2,794,Phase,P: So machen wir es.,Concluding,Farewell
+3,2,799,Phase,"T (simul.): Okay, dann einen schönen Tag Ihnen noch.",Concluding,Farewell
+3,2,804,Phase,T: Tschüss.,Concluding,Farewell
+3,2,809,Phase,"P: Danke, gleichfalls.",Concluding,Farewell
